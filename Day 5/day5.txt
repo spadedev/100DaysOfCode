@@ -1,0 +1,12 @@
+Day 5: December 7, 2022
+- Finished 'Understanding Data Engineering' at DataCamp
+- Started 'Data Manipulation with pandas'
+    
+Blockers: 
+- Assignments and events
+
+Links/ Pictures: 
+- https://github.com/spadedev/100DaysOfCode
+
+Thoughts: 
+- Mas productive nga ako sa umaga, lalo na sa tanghali

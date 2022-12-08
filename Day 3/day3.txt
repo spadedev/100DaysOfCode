@@ -1,0 +1,9 @@
+Day 3: December 5, 2022
+    - Done with basic JavaScript at freecodecamp
+
+Blockers: Katamaran
+
+Thoughts: 
+- I should make a goal to finish atleast 1 section per day in freecodecamp then start my project already
+- I intentionally did not do coding yesterday because its sunday, family and friends day ^_^
+- Now that I'm learning deeper in programming, I realize that what I know is just the basics, I need to work hard and be consistent to catch up with the projects that I want to do

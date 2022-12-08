@@ -1,0 +1,12 @@
+Day 4: December 6, 2022
+- Finished debugging javascript in freecodecamp
+- Finished 1 javascript project - palindome checker 
+    
+Blockers: 
+- I gave in to my desire to play valorant :'(
+
+Links/ Pictures: 
+- https://github.com/spadedev/100DaysOfCode
+
+Thoughts: 
+- Siguro dapat gawin ko to sa umaga kasi pag gabi, inaantok na ko

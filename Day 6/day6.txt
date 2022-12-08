@@ -1,0 +1,12 @@
+Day 6: December 8, 2022
+- Finished 'Introduction to Python' in DataCamp
+- Done in 'Week 1 - Technical Support Fundamentals' in Coursera
+    
+Blockers: 
+- Papalit palit ako ng gagawin, kaya di ko matapos yung isang track
+
+Links/ Pictures: 
+- https://github.com/spadedev/100DaysOfCode
+
+Thoughts: 
+- I should stick to one course then move to the next, hindi yung pinagsasabay ko tatlong iba't ibang courses
