@@ -1,0 +1,11 @@
+Day 7: December 13, 2022
+- Finished 'Intermediate Python' in DataCamp
+
+Blockers: 
+- Sleep, 10 hours ata tulog ko today
+
+Links/ Pictures: 
+- https://github.com/spadedev/100DaysOfCode
+
+Thoughts: 
+- Wala naman po
