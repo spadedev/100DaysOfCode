@@ -1,0 +1,12 @@
+Day 9: December 15, 2022
+- Finished 'Python Fundamentals' Track
+- Did data science tool bar part 1 & 2 today
+
+Blockers: 
+- I need to study for exam tom
+
+Links/ Pictures: 
+- https://github.com/spadedev/100DaysOfCode
+
+Thoughts: 
+- Sana pumasa sa exam bukas at nakikita ko naman na nag iimprove ako both in consistency and in programming <33
