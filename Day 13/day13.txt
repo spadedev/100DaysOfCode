@@ -1,0 +1,11 @@
+Day 11: December 21, 2022
+- Done in 4 projects in Responsive Web Design Certification in freecodecamp
+    
+Blockers: 
+- None
+
+Links/ Pictures: 
+- https://github.com/spadedev/100DaysOfCode
+
+Thoughts: 
+- Final na, susundan ko na yung freecodecamp course from simula hanggang huli, para di na palipat lipat ng gagawin.
