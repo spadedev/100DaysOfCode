@@ -1,4 +1,4 @@
-Day 11: December 21, 2022
+Day 13: January 3, 2023
 - Done in 4 projects in Responsive Web Design Certification in freecodecamp
     
 Blockers: 
