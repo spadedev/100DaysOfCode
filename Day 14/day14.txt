@@ -1,0 +1,13 @@
+Day 14: January 4, 2023
+- Finished 1 certification project in Responsive Web Design Certification in freecodecamp
+- Done 2 projects in freecodecamp
+    
+Blockers: 
+- Tulog
+- Kumuha ng government id
+
+Links/ Pictures: 
+- https://github.com/spadedev/100DaysOfCode
+
+Thoughts: 
+- None
