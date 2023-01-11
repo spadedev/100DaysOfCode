@@ -1,0 +1,9 @@
+Day 20: January 10, 2023
+- Finished building a picasso painting in freecodecamp
+    
+Blockers: 
+- classes
+- gumala
+
+Thoughts: 
+- nagagamay ko na yung html/css <33, konti nalang yung mistakes ko kaya nakakatuwa
