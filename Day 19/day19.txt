@@ -1,0 +1,9 @@
+Day 19: January 9, 2023
+- Finished building a balance sheet in freecodecamp
+    
+Blockers: 
+- gumala with myself
+
+Thoughts: 
+- none
+
