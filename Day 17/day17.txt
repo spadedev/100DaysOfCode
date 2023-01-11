@@ -1,0 +1,11 @@
+Day 17: January 7, 2023
+- Finished in Building a Quiz in freecodecamp
+    
+Blockers: 
+- utak ko chos wala naman
+
+Links/ Pictures: 
+- https://github.com/spadedev/100DaysOfCode
+
+Thoughts: 
+- Medyo nahirapan ako gawin yung task na to kasi wala nang masyadong guide from freecodecamp kaya kailangan talaga gamitin yung utak (sana meron) :( pero atleast you get to showcase what you have learned
