@@ -1,0 +1,9 @@
+Day 28: January 26, 2023
+- Done in 6/33 in RegEx in freecodecamp
+    
+Blockers: 
+- tons of school works
+
+Thoughts: 
+- skip ko muna yung es6, medyo nahihirapan ako dun pero dito sa regex, madali lang kaya ito muna
+- dami ko na ring days na nai-skip, sana tumigil na yung profs kakabigay ng gagawin kahit this week lang, pause muna hays
