@@ -1,0 +1,10 @@
+Day 30: January 31, 2023
+- Done in RegEx
+- Started basic data structures
+    
+Blockers: 
+- processed government id
+- business
+
+Thoughts:
+- sa wakas, natapos din ang january!
