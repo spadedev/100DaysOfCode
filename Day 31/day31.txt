@@ -1,0 +1,9 @@
+Day 31: February 1, 2023
+- Did some basic data structures
+    
+Blockers: 
+- got lazy 
+- did some homeworks
+
+Thoughts:
+- none
